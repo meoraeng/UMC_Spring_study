@@ -126,3 +126,9 @@ public class Main {
 ```
 
 ![image.png](./images/image%203.png)
+
+
+### 면접질문
+1. JVM 메모리 구조에서 static 변수는 어느 영역에 저장되나요?
+2. static 키워드의 역할과 그 특징은 무엇인가요?
+3. Collection 인터페이스는 어떤 방식으로 동작하나요?
