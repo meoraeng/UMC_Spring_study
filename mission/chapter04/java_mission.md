@@ -113,3 +113,8 @@ public class FunctionExamples {
 
 ```
 
+
+
+### 질문
+- Stream API에서 map과 filter의 차이점은? mapToInt, mapToDouble 등 다양한 map 메서드가 제공되는 이유는?
+- 예상 답변: map은 각 요소를 다른 값으로 변환하고, filter는 조건에 맞는 요소만 선별한다. mapToInt, mapToDouble 등은 기본 타입 스트림을 반환해 성능을 최적화하며, 각 타입에 특화된 기능을 제공
