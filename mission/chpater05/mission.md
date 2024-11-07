@@ -1,5 +1,8 @@
 # Chapter5. 미션
 
+> 깃허브 미션 링크:  https://github.com/meoraeng/umc_spring_practice_repo/tree/mission5
+
+
 ![스크린샷 2024-11-06 오후 12.35.11.png](./Chapter5%20미션%20136703ef926c80f9b7e8dfd2100bf24b/스크린샷%202024-11-06%20오후%2012.34.35.png)
 
 데이터베이스 설정
